@@ -9,7 +9,7 @@ Cada repositório contém os projetos, atividades e códigos desenvolvidos ao lo
   - Conteúdo: Implementação de algoritmos fundamentais em grafos, como busca em profundidade (DFS), busca em largura (BFS), algoritmos de caminho mínimo (Dijkstra, Bellman-Ford), algoritmos de árvores geradoras mínimas (Kruskal, Prim), e problemas de fluxo máximo.
 
 - **Inteligência Artificial**
-  - [Link para o repositório](https://github.com/usuario/inteligencia-artificial)
+  - [Link para o repositório](https://github.com/OsvaldoUfla/Inteligencia-Artificial-UFLA.git)
   - Conteúdo: Implementação de algoritmos de busca, redes neurais e métodos de aprendizado supervisionado e não supervisionado.
 
 - **Prática de Programação Orientada a Objetos**
