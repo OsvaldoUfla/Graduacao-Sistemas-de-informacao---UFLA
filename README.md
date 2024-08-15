@@ -17,7 +17,7 @@ Cada repositório contém os projetos, atividades e códigos desenvolvidos ao lo
   - Conteúdo: Desenvolvimento de aplicações utilizando os princípios da programação orientada a objetos, incluindo conceitos de herança, encapsulamento, polimorfismo, e abstração. Implementação de projetos que utilizam padrões de design e boas práticas de desenvolvimento orientado a objetos.
 
 - **Programação Paralela e Concorrente**
-  - [Link para o repositório](https://github.com/OsvaldoUfla/GAC105---Programa-o-Paralela-e-Concorrente---2024-1.git)
+  - [Link para o repositório](https://github.com/OsvaldoUfla/GAC105-Programacao-Paralela-e-Concorrente-2024-1.git)
   - Conteúdo: Estudo e implementação de técnicas de programação paralela e concorrente, incluindo o uso de threads, processos, OpenMP, MPI, e conceitos de sincronização, deadlocks, regiões críticas, e escalabilidade de algoritmos paralelos.
 
 - **Sistemas Distribuídos**
