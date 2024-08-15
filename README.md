@@ -13,11 +13,11 @@ Cada repositório contém os projetos, atividades e códigos desenvolvidos ao lo
   - Conteúdo: Implementação de algoritmos de busca, redes neurais e métodos de aprendizado supervisionado e não supervisionado.
 
 - **Prática de Programação Orientada a Objetos**
-  - [Link para o repositório](https://github.com/OsvaldoUfla/GAC106-PPOO.git)
+  - [Link para o repositório](https://github.com/OsvaldoUfla/GAC106-PPOO.gi)
   - Conteúdo: Desenvolvimento de aplicações utilizando os princípios da programação orientada a objetos, incluindo conceitos de herança, encapsulamento, polimorfismo, e abstração. Implementação de projetos que utilizam padrões de design e boas práticas de desenvolvimento orientado a objetos.
 
 - **Programação Paralela e Concorrente**
-  - [Link para o repositório](GAC105---Programa-o-Paralela-e-Concorrente---2024-1)
+  - [Link para o repositório](https://github.com/OsvaldoUfla/GAC105---Programa-o-Paralela-e-Concorrente---2024-1.git)
   - Conteúdo: Estudo e implementação de técnicas de programação paralela e concorrente, incluindo o uso de threads, processos, OpenMP, MPI, e conceitos de sincronização, deadlocks, regiões críticas, e escalabilidade de algoritmos paralelos.
 
 - **Sistemas Distribuídos**
