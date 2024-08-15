@@ -8,7 +8,7 @@ Cada repositório contém os projetos, atividades e códigos desenvolvidos ao lo
   - [Link para o repositório](https://github.com/OsvaldoUfla/GCC218-Algoritmos-em-Grafos.git)
   - Conteúdo: Implementação de algoritmos fundamentais em grafos, como busca em profundidade (DFS), busca em largura (BFS), algoritmos de caminho mínimo (Dijkstra, Bellman-Ford), algoritmos de árvores geradoras mínimas (Kruskal, Prim), e problemas de fluxo máximo.
  
-  - **Aplicações de Processamento Digital de Áudio Profissional**
+- **Aplicações de Processamento Digital de Áudio Profissional**
   -  [Link para o repositório](https://github.com/OsvaldoUfla/Aplicacoes-de-Processamento-Digital-de-Audio-Profissional.git)
 
 - **Inteligência Artificial**
