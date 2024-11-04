@@ -31,4 +31,6 @@ Cada repositório contém os projetos, atividades e códigos desenvolvidos ao lo
   - [Link para o repositório](https://github.com/OsvaldoUfla/Teoria_da_Computacao.git)
   - Conteúdo: Estudo dos fundamentos teóricos da computação, incluindo autômatos, linguagens formais, máquinas de Turing, gramáticas regulares e livres de contexto, e a teoria da complexidade computacional.
 
+  Esta é a branch teste2 para testar o fucionamento do git no navegador! 
+
 
